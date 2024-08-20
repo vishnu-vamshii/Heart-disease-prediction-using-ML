@@ -1,1 +1,1 @@
-Explored, cleaned and analyzed 14 different attributes of heart to predict the presence of heart disease using Machine Learning techniques such as Logistic Regression, Random Forest, Decision Tree, KNN, Decision tree and hyper parameter tuning to these data models. 
+Explored, cleaned and analyzed 14 different attributes of heart to predict the presence of heart disease using Machine Learning techniques such as Logistic Regression, Random Forest, Decision Tree, KNN, Decision tree and hyper parameter tuning to these data models with visualizations using matplotlib. 
